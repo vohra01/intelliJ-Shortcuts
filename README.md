@@ -2,7 +2,7 @@
 Most Frequently used ide intelliJ shortcuts
 
 
-##alt + shift + insert :: column selection mode  
+## alt + shift + insert :: column selection mode  
 alt + j :: add selection for next occurrence  
 CTRL + ALT + SHIFT + J :: select all occurrences  
 CTRL + ALT + L :: reformat code  
